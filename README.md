@@ -1,3 +1,3 @@
 # tiktokclone-
 Clone do tiktok
-https://Marilia967.github.io.tiktokclone-
+https://Marília967.github.io/tiktokclone-/
